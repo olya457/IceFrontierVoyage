@@ -1,4 +1,4 @@
-package com.icefrontiervoyage
+package com.icefrontier.voyage
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

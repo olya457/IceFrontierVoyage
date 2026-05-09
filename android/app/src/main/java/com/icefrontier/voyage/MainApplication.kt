@@ -1,4 +1,4 @@
-package com.icefrontiervoyage
+package com.icefrontier.voyage
 
 import android.app.Application
 import com.facebook.react.PackageList
